@@ -7,7 +7,7 @@ nesicide is an Integrated Development Environment (IDE) for the 8-bit Nintendo E
 This project contains the following products:
 
 * NESICIDE (the IDE itself)
-* A NES emulator (standalone package of the emulator used in the IDE)
+* A NES emulator ((standalone package of the emulator used in the IDE))
 * Qt FamiTracker (a fork of jsr's FamiTracker)
 * FamiPlayer (a music player for .ftm files)
 
